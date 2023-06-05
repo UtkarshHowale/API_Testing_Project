@@ -10,22 +10,25 @@ For every response a test suite has been performed, for example:
 
 For response status :
 
-Status code is 200
+1.Status code is 200
 
 For response headers :
 
-Header Content-Type is present
+1.Header Content-Type is present
 
 For response body :
 
-Response is a JSON
-Response schema is correct
-JSON values are correct 
-Body is correct
+1.Response is a JSON
+
+2.Response schema is correct
+
+3.JSON values are correct 
+
+4.Body is correct
 
 For performance :
 
-Response time is less than 1200ms
+1.Response time is less than 1200ms
 
 Test Result :
 
