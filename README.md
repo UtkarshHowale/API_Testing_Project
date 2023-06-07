@@ -2,6 +2,8 @@
 
 This repository contains API tests for https://restful-booker.herokuapp.com - an API playground which allows to perform all CRUD methods. The tests were created and performed in Postman and then exported to JSON files.
 
+Base url - https://restful-booker.herokuapp.com
+
 In this project : Test scenarios has been divided into positive and negative categorise and also coverd more that 100 test assertions 
 
 Test actions: 
@@ -29,6 +31,8 @@ For response body :
 For performance :
 
 1.Response time is less than 1200ms
+
+Test result genrated neuman report 
 
 Test Result :
 
